@@ -8,7 +8,7 @@
 <body>
 <header>
 	<div class='header'>
-		<a href="" class='fl logo'><img src="test/images/logo2.png"></a>
+		<a href="" class='fl logo'><img src="test/test/images/logo2.png"></a>
 		<ul class='fl head-n'>
 			<li><a href="">首页</a></li>
 			<li class='actiog'><a href="">项目</a></li>
@@ -36,7 +36,7 @@
 		<div class='fl fl-cen'>
 			<ul class='im-tx'> 
 				<li>
-					<img src="test/images/3fg5.png">
+					<img src="test/test/images/3fg5.png">
 					<div class='detailed'>
 					<p class='ti-m'><a href="">大学刚毕业竟确诊为肠癌晚期，请帮帮我们的同学史凯雯</a></p>
 					<p class='yi-b'><b></b><span>北京第三医院</span><i></i> <span>中国华侨基金会</span></p>
@@ -53,7 +53,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/3fg5.png">
+					<img src="test/test/images/3fg5.png">
 					<div class='detailed'>
 					<p class='ti-m'><a href="">大学刚毕业竟确诊为肠癌晚期，请帮帮我们的同学史凯雯</a></p>
 					<p class='yi-b'><b></b><span>北京第三医院</span><i></i> <span>中国华侨基金会</span></p>
@@ -78,7 +78,7 @@
 			</div>
 			<ul class='im-ttx'> 
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/test/test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -96,7 +96,7 @@
 				</li>
 				
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -113,7 +113,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -130,7 +130,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -148,7 +148,7 @@
 				</li>
 				
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -165,7 +165,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -182,7 +182,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -200,7 +200,7 @@
 				</li>
 				
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -217,7 +217,7 @@
 					</div>
 				</li>
 				<li>
-					<img src="images/dfjjpw9076h.png">
+					<img src="test/images/dfjjpw9076h.png">
 					<div class='detailed'>
 					<p class='ti-ou'><a href="">919紧急救助金／求助标题</a></p>
 					<p class='yi-b'><b  class='bba'></b><span>北京第三医院</span><u></u> <span>中国华侨基金会</span></p>
@@ -284,8 +284,8 @@
 				<p><span>公司邮箱：</span>lihao@meican-inc.com</p>
 			</div>
 			<div class='fl wxin'>
-				<a href=""><img src="images/weixin.png"></br><span>扫码关注微信</span></a>
-				<a href=""><img src="images/weixin.png"></br><span>扫码关注微信</span></a>
+				<a href=""><img src="test/images/weixin.png"></br><span>扫码关注微信</span></a>
+				<a href=""><img src="test/images/weixin.png"></br><span>扫码关注微信</span></a>
 				<div class='clear'></div>
 			</div>
 			<div class='clear'></div>
@@ -293,7 +293,7 @@
 	</div>
 	<div class='foot-b'>北京帮你筹科技有限公司©1|备案号:1</div>
 </footer>	
-<script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="test/js/jquery-1.11.3.min.js"></script>
 <script type="text/javascript">
 	$(function(){
 		/*var withs=$('#dao-t>p>span').html();
