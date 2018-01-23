@@ -1,78 +1,70 @@
-# 菜单配置（若不需要某项可直接删除）
-menu:
-  # 首页
-  - id: home
-    link: /
-    icon: home
-    class: menu-home
-  # 归档
-  - id: archives
-    link: /archives
-    icon: archive
-    class: menu-archive
-  # 目录
-  - id: category
-    link: javascript:;
-    category: true
-    icon: bookmark
-    class: menu-category
-  # 读书
-  - id: reading
-    link: /reading
-    icon: book
-    class: menu-reading
-  # 关于
-  - id: about
-    link: /about
-    icon: user
-    class: menu-about
-  # 搜索
-  - id: search
-    link: "#search"
-    icon: search
-    class: menu-search modal-trigger
+# Basic
+title: 潘柏信
+subtitle: 个人站
+description: 欢迎来到我的个人站~
+# 头像里面的标题
+avatarTitle: leopardpan
+# 头像里面的描述
+avatarDesc: iOS / 机器学习
+url: "http://baixin.io"
 
-# 颜色配置
-color:
-  header: indigo
-  footer: indigo
-  page_nav: indigo
-  side_nav: indigo darken-1
-  tag: pink lighten-1
-  article_title_link: indigo
-  link: pink
-  pagination: pink
-  tab: pink
-  archive_item: grey
-  fab: pink
-  fab_2: green
-  fab_3: yellow darken-1
-  new: pink
-  about_header: indigo
-  about_title: indigo
+# Comment
+comment:
+    disqus: leopard
+    # uyan: 2143225  # 有言id,登录有言官网申请
 
-archive_yearly: true
+# Social
+social:
+    weibo: 5366874726 
+    github: leopardpan
+    # twitter: 
+    mail: leopardpan@icloud.com
 
-# 版权信息
-copyright: © 2016 example.com, All rights reserved.
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
-# Disqus评论shortname，若为空则不启用
-disqus_shortname:
-# 多说shortname，若为空则不启用
-duoshuo_shortname:
-# 网易云跟帖productKey，从通用代码中获取，若为空则不启用
-yungentie_product_key:
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+ga:
+    id: UA-84134159-3   
+    host: auto  
 
-# Google分析track id，若为空则不启用
-google_analytics:
-# 腾讯分析sId，若为空则不启用
-tencent_analytics:
 
-# 高亮的主题，若为空则使用默认主题
-google_code_prettify: prettify-tomorrow-night-eighties
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#  帮忙star一下，感谢~😆 地址： https://github.com/leopardpan/leopardpan.github.io
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
 
-# 是否启用MathJax数学公式渲染。如果你确认整个站点的博文都不会用到Latex数学公式，可以将其该项设为false提高页面加载速度
-mathjax: true
 
-# 是否启用网页计数器（使用不蒜子插件）
-page_stat: true
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate,jekyll-sitemap]
+paginate: 20
+paginate_path: "page/:num/"
+
+

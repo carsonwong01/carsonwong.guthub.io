@@ -1,5 +1,6 @@
-.DS_Store
-/.idea
-/package.json
-/node_modules
-/source/data
+_site/
+.sass-cache/
+*.DS_Store
+.idea
+*.swp
+.Trashes
