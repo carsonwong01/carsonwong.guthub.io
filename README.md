@@ -2,13 +2,13 @@
 <head>
 	<meta charset="utf-8">
 	<title>项目</title>
-	<link rel="stylesheet" type="text/css" href="../css/public.css">
-	<link rel="stylesheet" type="text/css" href="../css/project.css">
+	<link rel="stylesheet" type="text/css" href="test/css/public.css">
+	<link rel="stylesheet" type="text/css" href="test/css/project.css">
 </head>
 <body>
 <header>
 	<div class='header'>
-		<a href="" class='fl logo'><img src="images/logo2.png"></a>
+		<a href="" class='fl logo'><img src="test/images/logo2.png"></a>
 		<ul class='fl head-n'>
 			<li><a href="">首页</a></li>
 			<li class='actiog'><a href="">项目</a></li>
@@ -36,7 +36,7 @@
 		<div class='fl fl-cen'>
 			<ul class='im-tx'> 
 				<li>
-					<img src="images/3fg5.png">
+					<img src="test/images/3fg5.png">
 					<div class='detailed'>
 					<p class='ti-m'><a href="">大学刚毕业竟确诊为肠癌晚期，请帮帮我们的同学史凯雯</a></p>
 					<p class='yi-b'><b></b><span>北京第三医院</span><i></i> <span>中国华侨基金会</span></p>
