@@ -67,5 +67,5 @@ git branc 查看时如出现
 
 <br>
 
-转载请注明：[CarsonW's Blog](http://www.carsonwong.top/) » [点击阅读原文](http://baixin.io/2016/07/GitTutorial/)     
+转载请注明：[CarsonW's Blog](http://www.carsonwong.top/) » [点击阅读原文](http://www.carsonwong.top/2017/11/GitTutorial/)     
 
