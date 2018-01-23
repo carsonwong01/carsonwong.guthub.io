@@ -1,24 +1,24 @@
 # Basic
-title: CarsonW
+title: CarsonWong
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: CarsonWong
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: java学习
+url: "http://www.carsonwong.top"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: CarsonWong
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: Carsonwongoo
+    github: carsonwong01
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: shengchenwang001@163.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
