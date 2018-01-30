@@ -12,6 +12,7 @@ tags: java
  >* 2、拦截器 
  >* 3、SpringMVC-Servlet中的拦截配置    
 
+&nbsp;&nbsp;&nbsp;&nbsp;代码：
 ```     
 //1、工具类——判断访问是移动端还是PC端
 public class CheckPcOrMobileUtil {
