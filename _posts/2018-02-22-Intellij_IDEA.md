@@ -7,7 +7,7 @@ tags: 工具
 
 &nbsp;&nbsp;&nbsp;&nbsp;遇到此问题，竟不能复制，发现原因，是因为勾选了Vim模式，Tools，Vim Emulator，前面会有一个√，取消即可，如图：
 <br>
-![](https://github.com/carsonwong01/carsonwong.guthub.io/tree/master/images/article/idea.png)
+![](https://github.com/carsonwong01/carsonwong.guthub.io/raw/master/images/article/idea.png)
 
 <br>
 
