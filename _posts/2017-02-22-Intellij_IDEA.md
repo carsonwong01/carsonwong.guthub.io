@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IntelliJ IDEA Ctrl+C 不能复制
-date: 2018-2-22
+date: 2017-2-22
 tags: 工具  
 ---
 

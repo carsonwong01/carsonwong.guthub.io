@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git简单教程"
-date: 2017-11-13   
+date: 2016-11-13   
 tag: 工具 
 ---
 

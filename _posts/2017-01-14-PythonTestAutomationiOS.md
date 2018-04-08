@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python自动化测试iOS项目--转载
-date: 2018-01-14 
+date: 2017-01-14 
 tags: python  
 ---
 

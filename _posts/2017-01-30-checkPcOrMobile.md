@@ -1,7 +1,7 @@
 ---
 layout: post
 title: java判断访问来源是PC端还是移动端，并返回不同的URL
-date: 2018-01-30 
+date: 2017-01-30 
 tags: java  
 ---
 
